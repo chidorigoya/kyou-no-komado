@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Kyou no Komado",
+  "short_name": "小窓",
+  "description": "画像とひとこと、自由なメモ欄を残して見返す小さなアルバムPWA。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7f2",
+  "theme_color": "#a86f52",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
