@@ -1,4 +1,4 @@
-const CACHE_NAME = "komado-public-v2-1";
+const CACHE_NAME = "komado-public-v3-1";
 const APP_SHELL = [
   "./",
   "./index.html",

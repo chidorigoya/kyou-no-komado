@@ -1,23 +1,29 @@
-MIT License
+Kyou no Komado 利用規約
 
 Copyright (c) 2026 chiwa
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+このアプリは、個人利用の範囲で使用できます。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+許可すること
+- 個人でこのアプリを利用すること
+- 自分の端末やブラウザにデータを保存すること
+- アプリ内設定で表示名、メモ欄名、テーマカラーなどを変更すること
+- 自分用のバックアップを保存すること
+- 自分用にGitHub Pages等へ設置して使用すること
 
-The Software was created with assistance from Sora / ChatGPT.
+禁止すること
+- このアプリ一式を無断で再配布すること
+- 改変したものを公開・配布すること
+- 商用利用すること
+- ロゴ、アイコン、画像素材を単体で利用・再配布すること
+- 作者や制作クレジットを偽ること
+- 自作発言をすること
+- 公序良俗に反する目的で使用すること
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+免責
+このアプリは現状のまま提供されます。
+利用によるデータ消失、端末・ブラウザ環境による不具合、その他の損害について、作者は責任を負いません。
+大事なデータは定期的にバックアップしてください。
+
+Credit
+Created by chiwa with Sora / ChatGPT.
